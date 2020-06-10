@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.bestbuy.crudtest.CategoriesCRUDTest" skipped="0" tests="1" time="13.36" timestamp="2020-06-07T15:35:50.318+01:00[Europe/London]"><testcase classname="com.bestbuy.crudtest.CategoriesCRUDTest" name="Update the category name and verify the updated information"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.ifValidationFails(ValidatableResponseOptionsImpl.java:410)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.ifValidationFails(ValidatableResponseOptionsImpl.java:404)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.ifValidationFails(ValidatableResponseOptionsImpl.java:400)&#13;
+com.bestbuy.steps.CategoriesSteps.getCategoriesById(CategoriesSteps.java:42)&#13;
+com.bestbuy.crudtest.CategoriesCRUDTest.test002(CategoriesCRUDTest.java:38)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Products Feature" skipped="0" tests="2" time="11.59" timestamp="2020-06-10T14:12:26.993+01:00[Europe/London]"><testcase name="Update products name and verify if the products name is updated"/><testcase name="Delete products and verify if the products is deleted"/></testsuite>

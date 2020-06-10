@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Categories Feature" skipped="0" tests="2" time="16.42" timestamp="2020-06-10T18:45:16.794+01:00[Europe/London]"><testcase name="Update categories name and verify if the categories name is updated"/><testcase name="Delete categories and verify if the categories is deleted"><failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;400&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;400&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;201&gt; but was &lt;400&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.bestbuy.cucumber.steps.CategoriesCrudSteps.iCreateNewCategoriesByProvidingANameIdAndGetStatusCode(CategoriesCrudSteps.java:25)&#13;
+✽.When I create new categories by providing a name &amp; id and get status code 201(categories.feature:6)&#13;
+</system-err></testcase></testsuite>

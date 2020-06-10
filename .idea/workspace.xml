@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bf0f167-c062-4ecc-9ab1-5323cc89470d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1czdlNjzsnPkZfHpZWf6hyzz0fz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bestbuy-serenity-project" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="JUnit.CucumberRunner">
+    <configuration name="CategoriesCRUDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuyAPI-serenity-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.crudtest.CategoriesCRUDTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuyAPI-serenity-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.cucumber.CucumberRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCRUDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuyAPI-serenity-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.crudtest.ProductCRUDTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicesCRUDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuyAPI-serenity-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.crudtest.ServicesCRUDTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoresCRUDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuyAPI-serenity-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.crudtest.StoresCRUDTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberRunner" />
+        <item itemvalue="JUnit.CategoriesCRUDTest" />
+        <item itemvalue="JUnit.ProductCRUDTest" />
+        <item itemvalue="JUnit.StoresCRUDTest" />
+        <item itemvalue="JUnit.ServicesCRUDTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bf0f167-c062-4ecc-9ab1-5323cc89470d" name="Default Changelist" comment="" />
+      <created>1591535505979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591535505979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1591536904161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591536904161" />
+    <state x="1779" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591799658012">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591741236908" />
+    <state x="1779" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591799658012" />
+    <state x="1854" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1591789092079">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1854" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591789092079" />
+    <state x="1845" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591789025666">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1845" y="224" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591789025666" />
+    <state x="229" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591545744343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="229" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591545744343" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1591542809375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591542809375" />
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom" timestamp="1591807517551">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="304" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591741698596" />
+    <state width="1323" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591807517551" />
+    <state width="1323" height="194" key="GridCell.Tab.0.center" timestamp="1591807517551">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="304" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591741698596" />
+    <state width="1323" height="194" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591807517551" />
+    <state width="1323" height="194" key="GridCell.Tab.0.left" timestamp="1591807517551">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="304" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591741698596" />
+    <state width="1323" height="194" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591807517551" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right" timestamp="1591807517551">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="304" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591741698596" />
+    <state width="1323" height="194" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591807517551" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591731114893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591731114893" />
+    <state x="1801" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1591792932158">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1591736654640" />
+    <state x="1801" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591792932158" />
+    <state x="1705" y="162" key="run.anything.popup" timestamp="1591806076838">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1705" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591806076838" />
+    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591793539420">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1712" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1591793539420" />
+  </component>
+</project>

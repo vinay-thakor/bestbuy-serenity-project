@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Stores Feature" skipped="0" tests="2" time="1.38" timestamp="2020-06-10T18:45:39.637+01:00[Europe/London]"><testcase name="Update stores name and verify if the stores name is updated"/><testcase name="Delete stores and verify if the stores is deleted"/></testsuite>
